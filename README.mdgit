@@ -1,0 +1,1 @@
+"# k-means-clustering"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/pohanwww/k-means-clustering.gitgit push -u origin master
